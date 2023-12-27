@@ -10,7 +10,7 @@ Steps to Run the tool:-
 4. Install few extensions in VS Code for
     a. Python
     b. Jupyter Notebook
-5. Download or clone code from GitHub: [gparv97/EARS-Rupp-s-template-conversion-](https://github.com/altanborali16/SWE522-G10)
+5. Download or clone code from GitHub: https://github.com/altanborali16/SWE522-G10
 6. pip install requirements.txt
 7. Run (EARS_template_conversion.ipynb) file in the VS Code
 8. After a successful run, it will open the output window.
